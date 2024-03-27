@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Aras</h1>
 <h3 align="center">I'm graduated from Computer Engineering. I have been working as a Software Developer from Türkiye..</h3>
 <span><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/></span>
-<span><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/></span>
 
 - 🌱 I’m currently learning **PHP,Laravel and Vue.js**
 
