@@ -21,5 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=araserdgn&show_icons=true&locale=en&layout=compact" alt="araserdgn" /></p>
 
-![snake gif](https://github.com/araserdgn/araserdgn/blob/output/github-contribution-grid-snake.gif)
 
